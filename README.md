@@ -71,7 +71,7 @@ The *Street Safety Management System* is an AI-powered solution designed to enha
 ## *How to Run*
 ### *1. Clone the Repository*
 ```bash
-git clone https://github.com/apoorv1110/STSMS.git
+git clone https://github.com/Nitesh780/Smart-Traffic-Management.git
 cd Street-Safety-Management-System
 ```
 
